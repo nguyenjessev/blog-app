@@ -1,24 +1,13 @@
-# README
+# Blog App
+This is a blogging app built in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Task
+Create a blogging app that allows for post creation/deletion/editing, attachments, tags, comments, and user authentication
 
-Things you may want to cover:
+## What I used
+Ruby on Rails, Paperclip and Sorcery gems
 
-* Ruby version
+## What I learned
+RESTful development with Rails, using gems to add additional functionality, database usage, deploying to Heroku
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[View on Heroku](https://pure-waters-97511.herokuapp.com/)
